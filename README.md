@@ -5,7 +5,7 @@ This project is a complete exploratory data analysis (EDA) of the Netflix Movies
 
 ---
 
-## 🎯 Objectives:
+## Objectives:
 - Understand trends in Netflix content over the years  
 - Compare Movies vs. TV Shows distribution  
 - Identify top countries producing content on Netflix  
@@ -13,7 +13,7 @@ This project is a complete exploratory data analysis (EDA) of the Netflix Movies
 
 ---
 
-## 🛠️ Tools & Libraries:
+## Tools & Libraries:
 - Python  
 - Pandas  
 - Matplotlib  
@@ -22,7 +22,7 @@ This project is a complete exploratory data analysis (EDA) of the Netflix Movies
 
 ---
 
-## 📊 Visualizations Included:
+## Visualizations Included:
 - Year-wise content growth  
 - Content type breakdown (Movies vs. TV Shows)  
 - Country-wise content distribution  
@@ -30,7 +30,7 @@ This project is a complete exploratory data analysis (EDA) of the Netflix Movies
 
 ---
 
-## 🚀 How to Run:
+## How to Run:
 1. Clone the repository  
 2. Open the `.ipynb` notebook in Jupyter Notebook or Google Colab  
 3. Run the cells sequentially  
