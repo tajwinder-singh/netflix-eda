@@ -17,7 +17,8 @@ This project is a complete exploratory data analysis (EDA) of the Netflix Movies
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
+- Seaborn
+- Scipy
 - Jupyter Notebook  
 
 ---
