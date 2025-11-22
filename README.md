@@ -1,5 +1,11 @@
 # Netflix Data Visualization Project
 
+---
+
+https://github.com/user-attachments/assets/5f83c5b6-9a69-4e1a-b190-489a2fc8a5fb
+
+---
+
 ## 📌 Overview  
 This project is a complete exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset. It uncovers insights, patterns, and trends using Python libraries like Pandas, Matplotlib, and Seaborn.
 
@@ -38,13 +44,13 @@ This project is a complete exploratory data analysis (EDA) of the Netflix Movies
 
 ---
 
-## 📁 Dataset Source:
+##  Dataset Source:
 [🔗 Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ---
 
 ## 🤝 Connect with Me:
-- LinkedIn: https://www.linkedin.com/in/tajwinder-singh
+- LinkedIn: https://www.linkedin.com/in/tajwinder-singh-
  
 - GitHub: https://github.com/tajwinder-singh
 
